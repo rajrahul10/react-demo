@@ -11,6 +11,7 @@ function App() {
     <>
       <Typography variant="h4" component="h1" gutterBottom>
             Welcome to my MUI App! {name}
+        Hello World
       </Typography>
           <Counter />
           <User />
