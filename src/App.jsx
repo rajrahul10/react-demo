@@ -7,7 +7,6 @@ import User from './components/User';
 function App() {
 
   const name = "Hello React";
-  const value = 100;
   return (
     <>
       <Typography variant="h4" component="h1" gutterBottom>
